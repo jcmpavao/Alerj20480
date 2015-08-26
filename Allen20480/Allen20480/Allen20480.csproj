@@ -129,7 +129,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="animacao.html" />
     <Content Include="contato.html" />
+    <Content Include="css\main.css" />
+    <Content Include="css\responsivo.min.css" />
     <Content Include="index.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -200,6 +203,7 @@
     <Content Include="Content\bootstrap.css.map" />
     <None Include="Scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="localizacao.html" />
+    <Content Include="responsivo.html" />
     <Content Include="Scripts\app\ajaxUtil.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
